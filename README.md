@@ -1,1 +1,1 @@
-# Neural-Networks-and-Deep-Learning-couresa-solution
+# Neural-Networks-and-Deep-Learning-coursera-solution
